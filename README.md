@@ -9,6 +9,8 @@ I use this preamp pedal with IR loader. It provides nice clean sound and enough 
 
 
 [Fender Jazz king amp preamp section schematic](https://www.zikinf.com/manuels/fender-jazz-king-schema-interne-2-28888.pdf)
+
+
 [Fender Jazz king amp Owner's Manual] (https://www.manualslib.com/manual/723328/Fender-Jazz-King.html)
 
 ## Gerbers information
