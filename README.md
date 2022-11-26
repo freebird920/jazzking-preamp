@@ -1,13 +1,15 @@
 # Jazz King Preamp 
 
 ## About this pedal
-Inspired by Fender Jazzking Amp. This amp is a solid state amp with 120W poweramp and 15' speaker.
+This preamp pedal was inspired by Fender Jazzking Amp. This amp is a solid state amp with 120W poweramp and 15' speaker. 
+
+I use this preamp pedal with IR loader. It provides nice clean sound and enough headroom. 
 
 ## Schematics and additional information of this pedal
 
 
 [Fender Jazz king amp preamp section schematic](https://www.zikinf.com/manuels/fender-jazz-king-schema-interne-2-28888.pdf)
-
+[Fender Jazz king amp Owner's Manual] (https://www.manualslib.com/manual/723328/Fender-Jazz-King.html)
 
 ## Gerbers information
 I made a 2 layered gerbers with AUTODESK EAGLE. This board was verified. It fits with 1590DD enclosure. 
