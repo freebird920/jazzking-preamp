@@ -29,6 +29,8 @@ PNP1 and TR3 are capacitance multiplier. In my case even with out CM there was n
 
 
 ![image](https://user-images.githubusercontent.com/53999927/204090862-409e1f8e-557a-4761-81e3-c39f50a50d23.png)
+![image](https://user-images.githubusercontent.com/53999927/204091450-2730521e-2b94-490b-ac7b-48c85c7b48e8.png)
+![image](https://user-images.githubusercontent.com/53999927/204091454-1400a3da-60da-40f6-8d1d-1573bfeeabb9.png)
 
 
 ## License
